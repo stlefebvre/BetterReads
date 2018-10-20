@@ -1,0 +1,2 @@
+# BetterReads
+An extension to the Goodreads app that allows for better filtering in already curated lists (for example, trying to find all books under the science fiction genre in your "Want to Read" list) with a simple search function. Currently, Goodreads does not have this option, thus only giving users the option of selecting page 1, page 2, so on and so forth. Future goals: Better data extrapolation (possible ideas: avg. pages read per day/week/month for a given year).
